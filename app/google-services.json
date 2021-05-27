@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "494247746099",
+    "project_id": "gameshort-d2d56",
+    "storage_bucket": "gameshort-d2d56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494247746099:android:017dcfbccb040eb1836146",
+        "android_client_info": {
+          "package_name": "com.arjun.gameshort"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494247746099-a6njd7mihb2th0rb8ljs8etsjodhjb34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI8Xhf_tvNEffgOnqFqrqISE1-qkeLAcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494247746099-a6njd7mihb2th0rb8ljs8etsjodhjb34.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
